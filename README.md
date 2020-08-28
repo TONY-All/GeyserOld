@@ -20,7 +20,7 @@ Special thanks to the DragonProxy project for being a trailblazer in protocol tr
 ### Currently supporting Minecraft Bedrock v1.14.6(0) and Minecraft Java v1.15.2.
 
 ## Setting Up
-Take a look [here](https://github.com/GeyserMC/Geyser/wiki#Setup) for how to set up Geyser.
+Take a loo1k [here](https://github.com/GeyserMC/Geyser/wiki#Setup) for how to set up Geyser.
 
 [![YouTube Video](https://img.youtube.com/vi/U7dZZ8w7Gi4/0.jpg)](https://www.youtube.com/watch?v=U7dZZ8w7Gi4)
 
